@@ -2,10 +2,6 @@ body {
     background-color: #161616;
     color: #ffffff;
     font-family: 'Poppins', sans-serif;
-    background: 
-    linear-gradient(rgba(0,0,0,1), rgba(0,0,0,0.7)),
-    url("https://i.pinimg.com/736x/3f/6e/94/3f6e949b186e48aa18287cb080afd4c0.jpg") no-repeat center center fixed;
-  background-size: cover;
 }
 
 footer{
